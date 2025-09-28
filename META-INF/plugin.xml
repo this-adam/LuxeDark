@@ -1,0 +1,17 @@
+<idea-plugin>
+  <id>com.luxedark.theme</id>
+  <name>Luxe Dark Theme</name>
+  <version>1.0.0</version>
+  <vendor>Custom Theme</vendor>
+  <idea-version since-build="203" until-build="999.*"/>
+  <description><![CDATA[
+    A luxurious dark theme for PyCharm with warm accents.
+    Features a rich #101010 background with elegant #F6C99F highlights.
+  ]]></description>
+  
+  <depends>com.intellij.modules.platform</depends>
+  
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="luxedark.theme" path="/LuxeDark.theme.json"/>
+  </extensions>
+</idea-plugin>

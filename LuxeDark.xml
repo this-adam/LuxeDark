@@ -1,0 +1,47 @@
+    <!-- Jupyter Notebook Specific -->
+    <option name="JUPYTER_NOTEBOOK_CELL_MARKER">
+      <value>
+        <option name="FOREGROUND" value="1A1A1A" />
+        <option name="BACKGROUND" value="121314" />
+      </value>
+    </option>
+    <option name="JUPYTER_NOTEBOOK_OUTPUT">
+      <value>
+        <option name="BACKGROUND" value="151515" />
+      </value>
+    </option>
+    <option name="JUPYTER_MARKDOWN_CELL">
+      <value>
+        <option name="BACKGROUND" value="101010" />
+        <option name="FOREGROUND" value="B0B0B0" />
+      </value>
+    </option>
+
+    <!-- Markdown -->
+    <option name="MARKDOWN_HEADER_1">
+      <value>
+        <option name="FOREGROUND" value="E0E0E0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_2">
+      <value>
+        <option name="FOREGROUND" value="D0D0D0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_BLOCK">
+      <value>
+        <option name="BACKGROUND" value="1A1A1A" />
+        <option name="FOREGROUND" value="C0C0C0" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN">
+      <value>
+        <option name="BACKGROUND" value="1A1A1A" />
+        <option name="FOREGROUND" value="F6C99F" />
+      </value>
+    </option>
+
+  </scheme>
+</component>
