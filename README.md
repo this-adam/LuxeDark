@@ -36,3 +36,5 @@ Open PyCharm IDE.
 7. Enable it (if not done automatically)
 
 That's it ヾ(⌐■_■)ノ♪
+
+_Inspired by MonkeyType's Vesper theme_
